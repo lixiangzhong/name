@@ -122,4 +122,5 @@ var commonInitialisms = map[string]bool{
 	"SSL":   true,
 	"CDN":   true,
 	"CNAME": true,
+	"VPN":   true,
 }
